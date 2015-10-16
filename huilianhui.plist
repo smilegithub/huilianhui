@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://paas.midaipay.com:11000/portal/app_down/hlhapp.ipa</string>
+					<string>http://www.midaipay.com/app4dl/hlhapp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.newhuilianhui.app</string>
 				<key>bundle-version</key>
-				<string>1.3</string>
+				<string>1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
