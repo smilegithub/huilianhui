@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>http://www.midaipay.com/app4dl/hlhapp.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<string>YES</string>
-					<key>url</key>
-					<string>http://www.midaipay.com/setup/icon.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<string>YES</string>
-					<key>url</key>
-					<string>http://www.midaipay.com/setup/icon@2x.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
